@@ -8,6 +8,7 @@ To predict whether a loan is good or bad using data collected when the loan is o
 
 ## Dataset
 Single Family Loan-Level dataset downloaded from Freddie Mac's [website](http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page)
+
 Year range: 1999-2003
 Only completed/terminated loans are used. A good loan is a loan that has been fully paid-off; a bad loan is a loan that was terminated by other reasons. Raw data is a stored in sqlite database.
 
